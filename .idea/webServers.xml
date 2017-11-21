@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aaec7ecc-9dfc-49b7-9ecf-867bf99f7514" name="Byggern" url="http://10.19.1.12">
+        <fileTransfer host="10.19.1.12" port="22" rootFolder="/home/pi/Byggern" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
